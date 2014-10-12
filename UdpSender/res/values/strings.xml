@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UdpSender</string>
+    <string name="action_settings">Settings</string>
+    <string name="button2">Send</string>
+    <string name="btn1">Send</string>
+    <string name="Info">Please enter target\'s IP and port, delay and your message</string>
+    <string name="Message"></string>
+    <string name="udpMessage">message</string>
+    <string name="hnt_msg">Message</string>
+    <string name="hnt_delay">Delay(ms)</string>
+    <string name="hnt_port">Port Number</string>
+    <string name="hnt_Ip">IP address</string>
+    <string name="btn_add">BroadCast</string>
+
+</resources>
